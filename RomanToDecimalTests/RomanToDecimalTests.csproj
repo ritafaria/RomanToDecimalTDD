@@ -53,6 +53,12 @@
     <Compile Include="RomanToDecimalConversationTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\RomanToDecimalConverter\RomanToDecimalConverter\RomanToDecimalConverter.csproj">
+      <Project>{25d4828b-ef31-4ef7-ab22-f718eab2eeae}</Project>
+      <Name>RomanToDecimalConverter</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>

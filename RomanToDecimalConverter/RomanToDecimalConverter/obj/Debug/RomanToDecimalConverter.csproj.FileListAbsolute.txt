@@ -1,0 +1,5 @@
+c:\users\sislam\documents\visual studio 2012\Projects\RomanToDecimalConverter\RomanToDecimalConverter\bin\Debug\RomanToDecimalConverter.dll
+c:\users\sislam\documents\visual studio 2012\Projects\RomanToDecimalConverter\RomanToDecimalConverter\bin\Debug\RomanToDecimalConverter.pdb
+c:\users\sislam\documents\visual studio 2012\Projects\RomanToDecimalConverter\RomanToDecimalConverter\obj\Debug\RomanToDecimalConverter.csprojResolveAssemblyReference.cache
+c:\users\sislam\documents\visual studio 2012\Projects\RomanToDecimalConverter\RomanToDecimalConverter\obj\Debug\RomanToDecimalConverter.dll
+c:\users\sislam\documents\visual studio 2012\Projects\RomanToDecimalConverter\RomanToDecimalConverter\obj\Debug\RomanToDecimalConverter.pdb
